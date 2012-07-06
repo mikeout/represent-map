@@ -7,6 +7,9 @@ $places = mysql_query("SELECT * FROM places WHERE approved='1' ORDER BY title");
 
 <!DOCTYPE html>
 <html>
+<link rel="icon"
+      type="image/x-icon"
+      href="http://www.represent.la/images/favicon.ico">
   <head>
     <!--
     This site was based on the Represent.LA project by:
